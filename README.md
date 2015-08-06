@@ -1,8 +1,10 @@
-# LESS-HTML-Boilerplate
+# LESS-HTML-Template
+
+A template for static HTML pages that are styled with LESS. 
 
 ##Requirements
-- npm
-- gulp
+- NPM
+- GulpJS
 
 ##Getting Started
 
